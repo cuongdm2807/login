@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "name": "abcabcabcabc",
+      "price": "1200",
+      "description": "aaaa",
+      "id": 1
+    },
+    {
+      "name": "abcabc",
+      "price": "120000",
+      "description": "aaaa",
+      "id": 2
+    },
+    {
+      "name": "cuongdmph09856",
+      "image": "IMG_5382.JPG",
+      "price": "9999",
+      "description": "ngon",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "cuongdmph09856@fpt.edu.vn",
+      "password": "$2a$10$e/V5bFVJ1pIr2698/7cJa.jCrNA6i1bVHk1td6qnC.VjjORu2xQ6m",
+      "name": "daomanhcuong",
+      "id": 1
+    },
+    {
+      "email": "cuong@gmail.com",
+      "password": "$2a$10$Lk3wD.SNFkv8Ve7Hjvz98.7U05in1vP/WLIk4goDO0Xq1LrC1XUgC",
+      "name": "abcabcabcabc",
+      "id": 2
+    }
+  ]
+}
